@@ -1,4 +1,4 @@
-const contentNode = document.getElementById('contents');
+const contentNode = document.getElementById('contentss');
 
 class IssueList extends React.Component{
 	render() {
